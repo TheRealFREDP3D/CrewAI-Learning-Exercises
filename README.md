@@ -4,6 +4,9 @@ Here are the resulting experimentation with CrewAI. These are working groups of 
 
 ## Crews
 
-1x Researcher + 1x Writer
+1x Researcher + 1x Writer 
+
+---
+
 1x MathProfessor
 1x VeteranPentesterProfessor
