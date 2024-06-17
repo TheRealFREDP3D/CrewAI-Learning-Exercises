@@ -12,7 +12,8 @@ export OPENAI_API_KEY=''
 
 # No need to use an API key
 
-# Run 'ollama create crewai-llama3 -f Modelfile' to create the "crewai-llama3" model.
+# Create Model
+#'ollama create crewai-llama3 -f Modelfile' 
 
 
 

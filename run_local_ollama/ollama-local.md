@@ -21,17 +21,12 @@ llm = ChatOpenAI(
     model = "crewai-llama3",
     base_url = "http://localhost:11434/v1")
 ```
-
-## Install Packages
-
-`pip install crewai langchain_openai os`
-
+`
 ## Create Model - "crewai-llama3"
 
-`ollama create crewai-llama3 -f ./Modelfile`
+`./create-llama3.sh`
+(ollama create crewai-llama3 -f Modelfile)
 
-## Launch MathProfessor.py
+## Launch Tool
 
-`python MathProfessor.py`
-
----
+Ex. python ./1MathProfessor_ollama_crewai-llama3/MathProfessor.py

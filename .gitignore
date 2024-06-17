@@ -400,3 +400,9 @@ FodyWeavers.xsd
 /Researcher-Writer/crewai
 /Researcher-Writer/.vscode
 /Researcher-Writer/__pycache__
+/1Researcher-1Writer_gemini-1.5-flash/crewai
+/1Researcher-1Writer_gemini-1.5-flash/.github
+/.vscode
+/.vs
+/1VeteranPentester-1Writer/1VeteranPentester_ollama_crewai-llama3
+/1VeteranPentester-1Writer
