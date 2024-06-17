@@ -1,9 +1,9 @@
 # CrewAI-Working-Teams
 
-## Simple Agents
-AI agents ready to work.
-
+## Agents 
 
 1x Researcher + 1x Writer 
+
 ---
+
 1x MathProfessor
