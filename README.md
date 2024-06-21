@@ -1,6 +1,8 @@
 # CrewAI-Working-Teams
 
-Here are the resulting experimentation with CrewAI. These are working groups of AI agents and tasks to play with.
+Here are the resulting experimentation with CrewAI. 
+I am testing mostly how to use CrewAI with local LLMs (Ollama).
+I will commit my working code and petinent files.
 
 ## Crews
 
