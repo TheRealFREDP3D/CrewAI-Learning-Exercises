@@ -10,4 +10,4 @@ Here are the resulting experimentation with CrewAI. These are working groups of 
 
 1x MathProfessor 
 
-1x VeteranPentesterProfessor
+1x VeteranPentester
